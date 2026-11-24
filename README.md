@@ -10,7 +10,7 @@ El proyecto incluye el análisis exploratorio, el preprocesamiento reproducible,
 
 ## Demostración
 
-[Enlace a la aplicación desplegada](URL_AQUI)
+[Enlace a la aplicación desplegada](https://proyecto-xgboost-inteligencia-artificial.streamlit.app/)
 
 La aplicación incluye dos **casos de ejemplo predefinidos** en la barra lateral (un cliente con alto riesgo de abandono y un cliente estable) para realizar una demostración en vivo en menos de un minuto.
 
