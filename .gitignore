@@ -1,0 +1,33 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Caché de Python y Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Variables de entorno y configuraciones locales
+.env
+.env.*
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos temporales y del sistema
+*.tmp
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IMPORTANTE: NO ignorar los siguientes archivos (requeridos por Streamlit Cloud):
+#   models/modelo.pkl
+#   data/raw/telco_churn.csv
+#   data/processed/
